@@ -11,7 +11,7 @@ env:
   REPOSITORY: ncsmng
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: current-account-fe
+  IMAGE_NAME: ncsmng/current-account-fe
   
 jobs:
 
