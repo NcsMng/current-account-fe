@@ -32,7 +32,7 @@ transactions of the accounts.
 
 - Docker
 
-## Run & Build
+## Pull & Run
 Pull Docker images from GitHub Packages:
 ```bash
 docker pull ghcr.io/ncsmng/current-account-fe:latest
